@@ -1,0 +1,8 @@
+{
+  "name" : "Systems Checklist",
+  "exportId" : "v4XQAiaHQOmw4QOtI-q58A",
+  "icon" : "✅ ",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
