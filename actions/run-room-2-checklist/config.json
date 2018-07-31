@@ -1,7 +1,7 @@
 {
   "exportId" : "iHGdKdGCRxiTBWTjVq4O2Q",
   "name" : "run-room-2-checklist",
-  "forcePrivateResponse" : false,
+  "forcePrivateResponse" : true,
   "canBeMemoized" : false,
   "isDataType" : false,
   "isTest" : false

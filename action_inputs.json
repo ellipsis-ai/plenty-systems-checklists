@@ -49,6 +49,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "ET8hFkCnRbyXXRyr6NiPIQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "HpCB0gObQe6Z5p3RJLw3Jw",
   "name" : "growLightsOn",
   "paramType" : {
@@ -95,7 +105,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "In which channels?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -125,7 +135,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `channels`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -145,7 +155,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `channels`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -175,7 +185,7 @@
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `channels`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
