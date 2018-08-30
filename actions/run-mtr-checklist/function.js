@@ -1,4 +1,4 @@
-function(emitters, quickConnects, gutters, growLightsOnAuto, ecLevel, overheadLights, channels, ellipsis) {
+function(emitters, quickConnects, gutters, growLightsOnAuto, sandFilterLevel, overheadLights, checkedSockFilter, channels, ellipsis) {
   const support = require('support')(ellipsis);
 
 const questionsAndAnswers = {
@@ -6,8 +6,9 @@ const questionsAndAnswers = {
   "Quick connects connected": quickConnects,
   "Gutters draining": gutters,
   "Grow lights on auto": growLightsOnAuto,
-  "EC level on Anderson meter < 2.25": ecLevel,
-  "Overhead room lights only on during production activities (M,W,F)": overheadLights
+  "Sand filter < 20 PSI (back-flush if above 20 PSI)": sandFilterLevel,
+  "Overhead room lights only on during production activities (M,W,F)": overheadLights,
+  "Checked sock filter and replaced if necessary": checkedSockFilter
 }
 support.postFor("MTR", questionsAndAnswers, channels);
 }

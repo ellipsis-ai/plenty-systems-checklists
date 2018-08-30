@@ -5,7 +5,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are both chillers running between 70-90 degrees F?",
+  "question" : "Are both chillers running between 65-90 degrees F?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -30,12 +30,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "59zn_GO3RZygL-T2bhVIEw",
-  "name" : "ecLevel",
+  "name" : "sandFilterLevel",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "EC on Anderson meter < 2.25?",
+  "question" : "Is the sand filter level < 20 PSI? (back-flush if above 20 PSI)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -55,7 +55,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on? (OFF 6am-12pm)",
+  "question" : "Are the grow lights on? (12PM to 6AM)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -146,6 +146,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "gMEonsqlT3aZMlJFbx7eeA",
+  "name" : "checkedSockFilter",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked sock filter and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
