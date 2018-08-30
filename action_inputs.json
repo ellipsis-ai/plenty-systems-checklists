@@ -55,7 +55,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on? (12PM to 6AM)",
+  "question" : "Are the grow lights on? (off 6AM to 12PM)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
