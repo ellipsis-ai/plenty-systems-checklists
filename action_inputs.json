@@ -29,6 +29,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "8JU0pL9BQZC15a6ktXGAXQ",
+  "name" : "livingMap",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the living map is up to date?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "9knDlu60TH6mpXLiNiO_kw",
   "name" : "pressureGauges",
   "paramType" : {
@@ -46,6 +56,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "DNHHP_w2Reu1zFg8qBajXA",
+  "name" : "packagePickupRacks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the package pick-up racks cleared and owners alerted?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -179,6 +199,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "b1iaM3PbTPimPww_Ajti4A",
+  "name" : "netsuite",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the Netsuite upload completed for the day?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "dfc6fKJ3SWGu6u53IL3XxQ",
   "name" : "channels",
   "paramType" : {
@@ -209,6 +239,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "gryFLsPBR_upwj2wYPhWPg",
+  "name" : "swept",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the dumpster area swept?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "h0McXVwBQi-12H1FAyZnog",
+  "name" : "trash",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is all trash removed from warehouse?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "h4BB2Yj9Q5Od6CwcFjPKlw",
   "name" : "emitters",
   "paramType" : {
@@ -216,6 +266,26 @@
     "name" : "Yes/No"
   },
   "question" : "Are all emitters flowing?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "hCy2zqwZSzyloKpV1JPM3g",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "jyTgjlLZToiunpRwRIbuWw",
+  "name" : "pallets",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are unused wooden pallets removed from warehouse?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -276,6 +346,16 @@
     "name" : "Text"
   },
   "question" : "What is the value for `summary`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "v8P-r8lNTieQeSCCEzc1Jg",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
