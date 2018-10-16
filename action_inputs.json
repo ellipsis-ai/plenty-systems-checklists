@@ -169,6 +169,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "ZTZn6nTBRJqSUyQrV7AHGg",
+  "name" : "middleRack",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Make sure middle light rack is in line",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "dfc6fKJ3SWGu6u53IL3XxQ",
   "name" : "channels",
   "paramType" : {
