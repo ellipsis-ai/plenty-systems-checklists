@@ -1,7 +1,7 @@
 {
   "exportId" : "Z6w_IXIbSA-lLmbzfiDypQ",
   "name" : "run-mtr-checklist",
-  "forcePrivateResponse" : true,
+  "responseTypeId" : "Private",
   "canBeMemoized" : false,
   "isDataType" : false,
   "isTest" : false

@@ -1,7 +1,7 @@
 {
   "exportId" : "eexl2AmvRx20tyoY5UQGTw",
   "name" : "production",
-  "forcePrivateResponse" : false,
+  "responseTypeId" : "Normal",
   "canBeMemoized" : false,
   "isDataType" : false,
   "isTest" : false
