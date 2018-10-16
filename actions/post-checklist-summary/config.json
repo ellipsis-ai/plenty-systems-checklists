@@ -1,7 +1,7 @@
 {
   "exportId" : "SVYRFpU5RYy2RFAESzxTPA",
   "name" : "post-checklist-summary",
-  "forcePrivateResponse" : false,
+  "responseTypeId" : "Normal",
   "canBeMemoized" : false,
   "isDataType" : false,
   "isTest" : false

@@ -10,12 +10,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "-tI7itCvTpmRcPQHizszYw",
-  "name" : "quickConnects",
+  "name" : "noWater",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are all quick connects connected?",
+  "question" : "Confirm there is no water on the floor",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -29,13 +29,13 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "59zn_GO3RZygL-T2bhVIEw",
-  "name" : "sandFilterLevel",
+  "exportId" : "9knDlu60TH6mpXLiNiO_kw",
+  "name" : "pressureGauges",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Is the sand filter level < 20 PSI? (back-flush if above 20 PSI)",
+  "question" : "Are all pressure gauges on feed lines > 20psi?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -50,22 +50,22 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "HpCB0gObQe6Z5p3RJLw3Jw",
-  "name" : "growLightsOn",
+  "name" : "growLights",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on? (off 6AM to 12PM)",
+  "question" : "Are grow lights functioning properly? (OFF 6AM-12PM)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
   "exportId" : "N_8eqK-qSmehaN6dHun1kQ",
-  "name" : "quickConnects",
+  "name" : "noWater",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are all quick connects connected?",
+  "question" : "Confirm there is no water on the floor",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -76,6 +76,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are the overhead room lights only on during production activities (M,W,F)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "OW6sHjXYTS2olGjNkHdm0A",
+  "name" : "nutrientTankFull",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is Nutrient Tank #1 full?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -99,6 +109,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "Q8WZV18wTKWlZUDlkeij9Q",
+  "name" : "sockFilters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Confirm sock filters are draining properly and not ballooning",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "QVuHFs4yRTmu2jdV6yCCHA",
+  "name" : "checkedSockFilter",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked sock filter and replaced if necessary?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "STzK1lUQR4Ww4V1Q96yuHw",
   "name" : "channels",
   "paramType" : {
@@ -110,12 +140,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "TUOcz0ILQpSh2WqPiZsT2A",
-  "name" : "nutrientTubs",
+  "name" : "feedTanks",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are both blue nutrient tubs at least 1/2 full?",
+  "question" : "Are both black feed tanks at least 1/2 full?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -179,6 +209,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "kMtw7V1-QEabYfV87wkOEA",
+  "name" : "nutrientTankFull",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is Nutrient Tank #2 full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "lttxhahRT4CznpcrfIqCRA",
   "name" : "channels",
   "paramType" : {
@@ -229,16 +269,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "uSPUTuz1RPu11yhAf1g7WQ",
-  "name" : "quickConnects",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Are all quick connects connected?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "vn7k13qGS3WpbKxbwYsNRA",
   "name" : "growLightsOnAuto",
   "paramType" : {
@@ -266,6 +296,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "xvqsdrd_StuNs9RIfwUK1Q",
+  "name" : "sockFilters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Confirm sock filters are draining properly and not ballooning",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 } ]
