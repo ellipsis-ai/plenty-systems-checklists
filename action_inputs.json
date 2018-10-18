@@ -1,4 +1,14 @@
 [ {
+  "exportId" : "-3L90hinSxuIeLuz7cJiug",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "-RGXgB4aRWuZVdJBXEdbeA",
   "name" : "chillers",
   "paramType" : {
@@ -296,6 +306,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is Nutrient Tank #2 full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "lQYEREHSSSOlFx6TDzfjLQ",
+  "name" : "friday",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "What is the value for `friday`?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
