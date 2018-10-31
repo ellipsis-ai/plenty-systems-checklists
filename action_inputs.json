@@ -39,6 +39,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "6BOvPiVxRDSRUyzXc7dTPQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "8JU0pL9BQZC15a6ktXGAXQ",
   "name" : "livingMap",
   "paramType" : {
@@ -229,6 +239,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "fdTLnb57QNWEFv1WDba-Sw",
+  "name" : "isComplete",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are you en-route for todays deliveries with all of these steps complete?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "gMEonsqlT3aZMlJFbx7eeA",
   "name" : "checkedSockFilter",
   "paramType" : {
@@ -396,6 +416,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are all gutters draining?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "wXU4ClNvQEqqA6AFd3tkWA",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channels`?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
