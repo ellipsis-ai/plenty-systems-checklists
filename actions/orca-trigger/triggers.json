@@ -1,5 +1,5 @@
 [ {
-  "text" : "run orca checklist {actionName} in {channels}",
+  "text" : "run orca checklist {actionName}",
   "requiresMention" : true,
   "isRegex" : false,
   "caseSensitive" : false,
