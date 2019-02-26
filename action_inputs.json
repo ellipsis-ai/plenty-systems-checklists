@@ -39,13 +39,13 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "6BOvPiVxRDSRUyzXc7dTPQ",
+  "exportId" : "3kCX-Q7nRHOYWR7La2aHpw",
   "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "For which channels? (space-separated)",
+  "question" : "For which channels? (space separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -56,6 +56,26 @@
     "name" : "Yes/No"
   },
   "question" : "Is the living map is up to date?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "8WDi2vYJRAmtcFFEd4DmNw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "9I4d1Jo8Sriv0ZioToh8Mw",
+  "name" : "drainPans",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the drain pans secured and aligned?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -99,6 +119,36 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "KlZMNsV2QAG1RtJJMLdKPQ",
+  "name" : "traceability",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Traceability?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "M9r8Qj_MSjG_UfOBCOAJyA",
+  "name" : "trolleysRemoved",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are trolleys removed from germ chambers?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "MNAIySd-TsuxxWIulPSpbQ",
+  "name" : "irrigationOff",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is irrigation off?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "N_8eqK-qSmehaN6dHun1kQ",
   "name" : "noWater",
   "paramType" : {
@@ -116,6 +166,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are the overhead room lights only on during production activities (M,W,F)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "O0S3h3HsQYuCEbh-YiaMIQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -159,6 +219,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "QRY-UX_mQaGIXdFSxeMGYQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "QVuHFs4yRTmu2jdV6yCCHA",
   "name" : "checkedSockFilter",
   "paramType" : {
@@ -166,6 +236,16 @@
     "name" : "Yes/No"
   },
   "question" : "Checked sock filter and replaced if necessary?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "QoqGQox8Rs2lvCD8bxcH2w",
+  "name" : "correctBays",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the correct bays being irrigated?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -189,6 +269,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "TZ1dvB6kRNGpKuJJfdYDgA",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "TcUNNnZXRzqYXW6ZZnXqtQ",
+  "name" : "doOff",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is DO off?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "US6weit1T-mPDGNFCHmQjg",
   "name" : "channels",
   "paramType" : {
@@ -196,6 +296,26 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Uaq4T_R0T9Su6Fkl9Tm8BQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "WZbIn6i0TbS6RVkKhvmoUg",
+  "name" : "trolleysPushed",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are trolleys pushed into germ chamber?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -209,6 +329,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "X-r9qYX7S5-NF3u794_8ew",
+  "name" : "noLowSpots",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no low spots or standing water in the tables?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "YiCzJ46ERBK4u0i7nHuEJg",
+  "name" : "tankFull",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the tank full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "ZTZn6nTBRJqSUyQrV7AHGg",
   "name" : "middleRack",
   "paramType" : {
@@ -216,6 +356,16 @@
     "name" : "Yes/No"
   },
   "question" : "Make sure middle light rack is in line",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "aaK00MQpQ-KWEK8K-THj6A",
+  "name" : "checkedBasket",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked basket and screen filters and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -239,13 +389,13 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "fdTLnb57QNWEFv1WDba-Sw",
-  "name" : "isComplete",
+  "exportId" : "g6gaz3rtRti8pgezJ3RZ7A",
+  "name" : "tablesDraining",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are you en-route for todays deliveries with all of these steps complete?",
+  "question" : "Are the tables draining and clear of debris?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -309,6 +459,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "jIb9aehqQ5yq42Wv1ZYzYA",
+  "name" : "doOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is DO on?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "jyTgjlLZToiunpRwRIbuWw",
   "name" : "pallets",
   "paramType" : {
@@ -329,6 +489,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "kX3wL4qzSISTWtvZocn8WQ",
+  "name" : "irrigationStarted",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Did irrigation start?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "lQYEREHSSSOlFx6TDzfjLQ",
   "name" : "friday",
   "paramType" : {
@@ -336,6 +506,16 @@
     "name" : "Yes/No"
   },
   "question" : "What is the value for `friday`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "litOGZT3RWyDdA_k0rYZXg",
+  "name" : "checkedBasket",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Checked basket and screen filters and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -359,6 +539,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "qja_HyvRS4WvL6iNRWfIlA",
+  "name" : "sumpPumps",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the sump pumps NOT running dry?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "scLRdP8cQGyFwF_pJsrCOw",
   "name" : "overheadLights",
   "paramType" : {
@@ -366,6 +556,26 @@
     "name" : "Yes/No"
   },
   "question" : "Are the overhead room lights only on during production activities (M,W,F)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "spoRwUW9TMernzC6PjDYEQ",
+  "name" : "actionName",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `actionName`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "sq5RL4LZRC6oyyK9U8lCzw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -419,16 +629,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "wXU4ClNvQEqqA6AFd3tkWA",
-  "name" : "channels",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `channels`?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "xO3Bx6zIRfempoRNlGeNQA",
   "name" : "channels",
   "paramType" : {
@@ -436,6 +636,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "xVLDys6HRlS7DmodkepS8Q",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
