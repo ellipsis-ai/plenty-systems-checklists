@@ -39,6 +39,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "3kCX-Q7nRHOYWR7La2aHpw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "8JU0pL9BQZC15a6ktXGAXQ",
   "name" : "livingMap",
   "paramType" : {
@@ -249,16 +259,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "SXfdoS0LSpS73clga-XABw",
-  "name" : "channels",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `channels`?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "TUOcz0ILQpSh2WqPiZsT2A",
   "name" : "feedTanks",
   "paramType" : {
@@ -309,6 +309,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "WZbIn6i0TbS6RVkKhvmoUg",
+  "name" : "trolleysPushed",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are trolleys pushed into germ chamber?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "WlpbUWqaQDqVINZoW9nBow",
   "name" : "emitters",
   "paramType" : {
@@ -346,6 +356,16 @@
     "name" : "Yes/No"
   },
   "question" : "Make sure middle light rack is in line",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "aaK00MQpQ-KWEK8K-THj6A",
+  "name" : "checkedBasket",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked basket and screen filters and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -486,6 +506,16 @@
     "name" : "Yes/No"
   },
   "question" : "What is the value for `friday`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "litOGZT3RWyDdA_k0rYZXg",
+  "name" : "checkedBasket",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Checked basket and screen filters and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
