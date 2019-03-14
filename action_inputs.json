@@ -39,6 +39,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "3I9dezEeQpWLIBDwFObwiA",
+  "name" : "valves",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the valves in line with the green arrows?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "3kCX-Q7nRHOYWR7La2aHpw",
   "name" : "channels",
   "paramType" : {
@@ -89,6 +99,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "CJiMsnV9T7-ML782cO-Gnw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "CxWevEkPSpidLsQHqJ--TA",
   "name" : "channels",
   "paramType" : {
@@ -109,6 +129,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "EH5of_gAQD2h3EjKdfOvvg",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "HpCB0gObQe6Z5p3RJLw3Jw",
   "name" : "growLights",
   "paramType" : {
@@ -116,6 +146,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are grow lights functioning properly? (OFF 6AM-12PM)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "KHSz4xTBSG20uskrbvzbFA",
+  "name" : "feedTanks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the nutrient feed tanks filled at least half way, and pumps on?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -339,6 +379,36 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "XJKb3BqPTEu0YhkTGAMLDg",
+  "name" : "emitters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the emitters flowing",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Xt8xXTRGQ4SR6UymKtyo2Q",
+  "name" : "noPuddles",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no puddles on the floor?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "XwPK-asySlizjtVF0aepFA",
+  "name" : "growLights",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the grow lights on?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "YiCzJ46ERBK4u0i7nHuEJg",
   "name" : "tankFull",
   "paramType" : {
@@ -512,8 +582,8 @@
   "exportId" : "litOGZT3RWyDdA_k0rYZXg",
   "name" : "checkedBasket",
   "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
   },
   "question" : "Checked basket and screen filters and replaced if necessary?",
   "isSavedForTeam" : false,
@@ -526,6 +596,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "nXh5oDdKTe67V3Kgnjh9Rg",
+  "name" : "pumps",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the pumps on in both MTR and MEG rooms?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
