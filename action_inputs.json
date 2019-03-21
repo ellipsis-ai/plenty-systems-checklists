@@ -199,6 +199,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "Ngoet_w1QhG8KVz-0u_LdQ",
+  "name" : "tuesdayThursdayTasks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Tuesday/Thursday PM: disc & screen filters, check pH down bucket filled, fill blue h20 tubs, wipe algae off emitters? (Or say Yes if not Tuesday/Thursday PM)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "NjQXM8yaT9G5mYpTQF2z6g",
   "name" : "overheadLights",
   "paramType" : {
@@ -226,6 +236,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is Nutrient Tank #1 full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "OqeOV3WyS6C_EZbOSoUrDw",
+  "name" : "phInRange",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is pH in the range 5.8–6.0?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -529,6 +549,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "iwL0wCE1SsG8gcyzyD_0mA",
+  "name" : "oxygenTankFull",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is oxygen tank full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "jIb9aehqQ5yq42Wv1ZYzYA",
   "name" : "doOn",
   "paramType" : {
@@ -726,6 +756,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "xiiiS9sGQxqso8Itl6wk1A",
+  "name" : "ecInRange",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is EC in the range 1.6–2.0?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
