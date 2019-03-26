@@ -15,7 +15,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are both chillers running between 65-90 degrees F?",
+  "question" : "Are both chillers running between 65-99  degrees F?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
