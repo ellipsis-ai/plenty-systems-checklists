@@ -255,7 +255,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 6am to 12pm?)",
+  "question" : "Are the grow lights on auto? (Lights off: 5am to 8am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -290,12 +290,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "QVuHFs4yRTmu2jdV6yCCHA",
-  "name" : "checkedSockFilter",
+  "name" : "checkedBucketFilter",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Checked sock filter and replaced if necessary?",
+  "question" : "Checked bucket filter and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -490,12 +490,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "gMEonsqlT3aZMlJFbx7eeA",
-  "name" : "checkedSockFilter",
+  "name" : "checkedBucketFilter",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Checked sock filter and replaced if necessary?",
+  "question" : "Checked bucket filter and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -725,7 +725,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 4am to 10am?)",
+  "question" : "Are the grow lights on auto? (Lights off: 6am to 10am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
