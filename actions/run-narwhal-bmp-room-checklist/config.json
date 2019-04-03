@@ -1,0 +1,8 @@
+{
+  "exportId" : "UT481ov_RLaneMkUtd25iw",
+  "name" : "run-narwhal-bmp-room-checklist",
+  "responseTypeId" : "Private",
+  "canBeMemoized" : false,
+  "isDataType" : false,
+  "isTest" : false
+}
