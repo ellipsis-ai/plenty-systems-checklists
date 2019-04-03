@@ -29,6 +29,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "0nFrDkNmTayNwOFwEhI1ZQ",
+  "name" : "trash",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the trash removed?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "0wmel4atRtCwpSsVrWPJtA",
   "name" : "emitters",
   "paramType" : {
@@ -36,6 +46,26 @@
     "name" : "Yes/No"
   },
   "question" : "Are all emitters flowing?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "17TS8t33RzadmBl4p0Srkw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "3G6_1p00SOGUstlG4tJh8g",
+  "name" : "sink",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the handwash sink reservoir full?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -56,6 +86,26 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "49E2-vbDT_SFRNbZnr5mtg",
+  "name" : "waterLevelNotTooHigh",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are zone 1, 2, and 3 supply tank water levels not excessively high?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "5SQOOeGrQ3CPzpS4XTOhJw",
+  "name" : "trash",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the trash removed?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -99,6 +149,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "A_pSZfnLS9ikXVPJwZYwcg",
+  "name" : "auto",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the system running in Auto mode, Supply/Return pumps ON in Auto?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "CJiMsnV9T7-ML782cO-Gnw",
   "name" : "channels",
   "paramType" : {
@@ -106,6 +166,16 @@
     "name" : "Text"
   },
   "question" : "For which channels?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "CgXOwF6nQ96D1mw5WPm3nQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -139,6 +209,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "FwAEYwXORX6cNIPMhXCrPw",
+  "name" : "waterLevelHighEnough",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are zone 1, 2, and 3 supply tank water levels at or above 300mm?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Hh4sTMndTO-746ttbmgC2Q",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "HpCB0gObQe6Z5p3RJLw3Jw",
   "name" : "growLights",
   "paramType" : {
@@ -146,6 +236,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are grow lights functioning properly? (OFF 6AM-12PM)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "JAySwzalQ0euNnlU4WqrhQ",
+  "name" : "noWaterLeaks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no leaks/water around tanks/filtration/sensor manifold?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -166,6 +266,16 @@
     "name" : "Yes/No"
   },
   "question" : "Traceability?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "LNHPsNFgSMySSh4PpIv2Cg",
+  "name" : "discScreenFilters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Disc and screen filters?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -199,16 +309,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "Ngoet_w1QhG8KVz-0u_LdQ",
-  "name" : "tuesdayThursdayTasks",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Tuesday/Thursday PM: disc & screen filters, check pH down bucket filled, fill blue h20 tubs, wipe algae off emitters? (Or say Yes if not Tuesday/Thursday PM)",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "NjQXM8yaT9G5mYpTQF2z6g",
   "name" : "overheadLights",
   "paramType" : {
@@ -226,6 +326,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ON8pl9baRLGQLzPDDMMxAw",
+  "name" : "floor",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the floor clean?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -269,6 +379,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "PjDbd1_iSGalzRPvDocXCg",
+  "name" : "stocked",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are soap, booties, paper towels stocked?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "Q8WZV18wTKWlZUDlkeij9Q",
   "name" : "sockFilters",
   "paramType" : {
@@ -276,6 +396,16 @@
     "name" : "Yes/No"
   },
   "question" : "Confirm sock filters are draining properly and not ballooning",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "QA9SiS-DSAeULrLcrCO4-g",
+  "name" : "noLeaks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no leaks or pooling water?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -419,6 +549,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "XuxbHOTsT2m9-hIn9blr8g",
+  "name" : "environment",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Environment (Temp, RH, CO2) within range on HVAC tab?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "XwPK-asySlizjtVF0aepFA",
   "name" : "growLights",
   "paramType" : {
@@ -456,6 +596,16 @@
     "name" : "Yes/No"
   },
   "question" : "Checked basket and screen filters and replaced if necessary?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ahQxmPdtR02rvrL7vbRelA",
+  "name" : "towerFunnels",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are tower funnels aligned under emitters?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -516,6 +666,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is the dumpster area swept?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "gtFWlNylSUmDutsFeAb38w",
+  "name" : "fillBlueH20Tubs",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Have the blue H₂0 tubs been filled?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -599,6 +759,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "ky5-O7DBQs2b2QB2Lv0BlQ",
+  "name" : "wipeAlgaeOffEmitters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Has the algae been wiped off emitters?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "lQYEREHSSSOlFx6TDzfjLQ",
   "name" : "friday",
   "paramType" : {
@@ -649,6 +819,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "oEIEvYjVSD-QdL9jmJNKqA",
+  "name" : "lightsOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are lights ON from 4pm to 10 am, OFF at all other times?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "qja_HyvRS4WvL6iNRWfIlA",
   "name" : "sumpPumps",
   "paramType" : {
@@ -689,6 +869,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "t399wlEmQQGwSGQ8FVgpEw",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "tgL6XtvoSD6bDpiEvoPLXQ",
   "name" : "growLightsOn",
   "paramType" : {
@@ -719,6 +909,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "vcr6q4o0RqKnekOZ41W18g",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "vn7k13qGS3WpbKxbwYsNRA",
   "name" : "growLightsOnAuto",
   "paramType" : {
@@ -736,6 +936,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are all gutters draining?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "wJi6sHi-S0qjPxI6TnWzAw",
+  "name" : "noWiltedTowers",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no wilted towers?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -759,6 +969,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "xhCdCs0KR6K8tseI1Ncrgg",
+  "name" : "buckets",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are pH down buckets are at least 1/2 full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "xiiiS9sGQxqso8Itl6wk1A",
   "name" : "ecInRange",
   "paramType" : {
@@ -776,6 +996,16 @@
     "name" : "Yes/No"
   },
   "question" : "Confirm sock filters are draining properly and not ballooning",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "yXGErrtlTmOWvsmpv5zQ3Q",
+  "name" : "ph",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are zones 2 and 3 EC/pH within range?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 } ]
