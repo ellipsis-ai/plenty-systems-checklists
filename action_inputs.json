@@ -79,6 +79,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "3Kcw9vUlRqaMYryol9iwlw",
+  "name" : "depthSensors",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are Zone 2 and 3 depth sensors free of debris?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "3kCX-Q7nRHOYWR7La2aHpw",
   "name" : "channels",
   "paramType" : {
@@ -825,7 +835,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are lights ON from 4pm to 10 am, OFF at all other times?",
+  "question" : "Are lights ON from 1PM to 7AM, OFF at all other times?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
