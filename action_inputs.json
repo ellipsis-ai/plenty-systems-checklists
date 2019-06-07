@@ -149,6 +149,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "9Z9mCZyBR0WkyIkKhuRJug",
+  "name" : "trashEmpty",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Trash empty?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "9knDlu60TH6mpXLiNiO_kw",
   "name" : "pressureGauges",
   "paramType" : {
@@ -166,6 +176,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is the system running in Auto mode, Supply/Return pumps ON in Auto?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "BHvsMO8TS5exgbZdOvGgvw",
+  "name" : "glovesBootsHairnets",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Gloves, boots, hairnets more than halfway full?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -216,6 +236,16 @@
     "name" : "Text"
   },
   "question" : "For which channels?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ENwomDyHTKyp1KBJrRMHeQ",
+  "name" : "soapDispenser",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Soap dispenser and paper towels more than 25% full? (if not have back up available close by)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -489,6 +519,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "TbuIUXSpSEiFg-ijDMbKeQ",
+  "name" : "checkedCoveralls",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked BMP Tigris & Taurus for coveralls? (restock if low or empty, low being less than halfway full)?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "TcUNNnZXRzqYXW6ZZnXqtQ",
   "name" : "doOff",
   "paramType" : {
@@ -726,6 +766,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "i5gMR1mmR7mdhrG9vEY3oQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
