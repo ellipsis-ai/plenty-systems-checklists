@@ -1,4 +1,4 @@
-function(waterLevelHighEnough, waterLevelNotTooHigh, buckets, noWaterLeaks, depthSensors, channels, ellipsis) {
+function(channels, waterLevelHighEnough, waterLevelNotTooHigh, buckets, noWaterLeaks, depthSensors, allFiltersClean, ellipsis) {
   const support = require('support')(ellipsis);
 
 const questionsAndAnswers = {
@@ -6,7 +6,8 @@ const questionsAndAnswers = {
   "Zone 1, 2, and 3 supply tank water levels not excessively high": waterLevelNotTooHigh,
   "pH down buckets are at least 1/2 full": buckets,
   "No leaks/water around tanks/filtration/sensor manifold": noWaterLeaks,
-  "Zone 2 and 3 depth sensors are free of debris": depthSensors
+  "Zone 2 and 3 depth sensors are free of debris": depthSensors,
+  "All filters are clean": allFiltersClean
 }
 support.postFor("Narwhal warehouse", questionsAndAnswers, channels);
 }
