@@ -179,6 +179,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "BAs0LmmtSEKfp98jY22brQ",
+  "name" : "allFiltersClean",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "All filters are clean?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "BHvsMO8TS5exgbZdOvGgvw",
   "name" : "glovesBootsHairnets",
   "paramType" : {
@@ -415,7 +425,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 5am to 8am?)",
+  "question" : "Are the grow lights on auto? (Lights off: 7am to 10am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -466,16 +476,6 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space separated)",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "QVuHFs4yRTmu2jdV6yCCHA",
-  "name" : "checkedBucketFilter",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Checked bucket filter and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -650,12 +650,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "aaK00MQpQ-KWEK8K-THj6A",
-  "name" : "checkedBasket",
+  "name" : "filtersClean",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Checked basket and screen filters and replaced if necessary?",
+  "question" : "Filters are clean?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -679,6 +679,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "c_yxIKrTRtqzEnCNHgF_IA",
+  "name" : "roomCurtainClosed",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Room curtain is closed?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "dfc6fKJ3SWGu6u53IL3XxQ",
   "name" : "channels",
   "paramType" : {
@@ -696,16 +706,6 @@
     "name" : "Yes/No"
   },
   "question" : "Are the tables draining and clear of debris?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "gMEonsqlT3aZMlJFbx7eeA",
-  "name" : "checkedBucketFilter",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Checked bucket filter and replaced if necessary?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -850,12 +850,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "litOGZT3RWyDdA_k0rYZXg",
-  "name" : "checkedBasket",
+  "name" : "filtersClean",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Checked basket and screen filters and replaced if necessary?",
+  "question" : "Filters are clean?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -995,7 +995,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 6am to 10am?)",
+  "question" : "Are the grow lights on auto? (Lights off: 5am to 8am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {

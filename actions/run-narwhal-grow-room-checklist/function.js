@@ -1,4 +1,4 @@
-function(lightsOn, noWiltedTowers, noLeaks, towerFunnels, floor, trash, channels, ellipsis) {
+function(channels, lightsOn, noWiltedTowers, noLeaks, towerFunnels, floor, trash, roomCurtainClosed, ellipsis) {
   const support = require('support')(ellipsis);
 
 const questionsAndAnswers = {
@@ -7,7 +7,8 @@ const questionsAndAnswers = {
   "No leaks or pooling water": noLeaks,
   "Tower funnels aligned under emitters": towerFunnels,
   "Floor clean": floor,
-  "Trash removed": trash
+  "Trash removed": trash,
+  "Room curtain closed": roomCurtainClosed
 }
 support.postFor("Narwhal Grow Room", questionsAndAnswers, channels);
 }

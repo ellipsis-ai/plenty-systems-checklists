@@ -3,7 +3,6 @@ function(ellipsis) {
 
 const intro = support.introFor(":unicorn_face:", "Narwhal");
 const rooms = [
-  "BMP Room",
   "Grow Room",
   "PLC",
   "Warehouse"
