@@ -75,7 +75,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the valves in line with the green arrows?",
+  "question" : "Valves in line with green arrows",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -305,7 +305,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the nutrient feed tanks filled at least half way, and pumps on?",
+  "question" : "Nutrient feed tanks filled at least half way, and pumps on",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -315,7 +315,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the overhead lights OFF in MTR and MEG?",
+  "question" : "Overhead lights OFF",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -595,7 +595,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the emitters flowing",
+  "question" : "Emitters flowing",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -605,7 +605,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are there no puddles on the floor?",
+  "question" : "No puddles on the floor",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -625,7 +625,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on?",
+  "question" : "Grow lights ON",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -875,7 +875,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the pumps on in both MTR and MEG rooms?",
+  "question" : "Pumps on",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
