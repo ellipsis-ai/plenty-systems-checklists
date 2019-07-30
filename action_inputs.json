@@ -425,7 +425,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 7am to 10am?)",
+  "question" : "Are the grow lights on auto? (Lights off: 8am to 11am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -995,7 +995,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are the grow lights on auto? (Lights off: 5am to 8am?)",
+  "question" : "Are the grow lights on auto? (Lights off: 6am to 9am?)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
