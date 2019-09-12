@@ -29,16 +29,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "0nFrDkNmTayNwOFwEhI1ZQ",
-  "name" : "trash",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Is the trash removed?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "0wmel4atRtCwpSsVrWPJtA",
   "name" : "emitters",
   "paramType" : {
@@ -85,7 +75,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are Zone 2 and 3 depth sensors free of debris?",
+  "question" : "Are Zones 1, 2 and 3 depth sensors free of debris?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -359,6 +349,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "NLckx-0nRmeJ0tqBh-r2XQ",
+  "name" : "zoneTanksHalfFull",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Zone tanks 1, 2, 3, and 4 at least half full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "N_8eqK-qSmehaN6dHun1kQ",
   "name" : "noWater",
   "paramType" : {
@@ -489,6 +489,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "QsOzTwCoT1GO3pPbvUWgcQ",
+  "name" : "roTankPumpOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Pump for RO tank is on and lit up green?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "STzK1lUQR4Ww4V1Q96yuHw",
   "name" : "channels",
   "paramType" : {
@@ -496,6 +506,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "SmQbjts0SjyX6wozWkd9fw",
+  "name" : "zoneTanksInRange",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : " Zone tanks 1, 2, 3, and 4 pH and EC are within range?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -699,6 +719,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "fa0GRVpBQwuviLTMMzlKGA",
+  "name" : "concentrateTanksFullEnough",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Concentrate tanks at least ⅓ full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ftm7veO6Tk63uo0mQGSv8A",
+  "name" : "transportedTowers",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked under ALL newly transplanted towers and made sure emitters are aligned in middle of funnel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "g6gaz3rtRti8pgezJ3RZ7A",
   "name" : "tablesDraining",
   "paramType" : {
@@ -895,7 +935,27 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are lights ON from 1PM to 7AM, OFF at all other times?",
+  "question" : "Are lights ON from 7AM to 1PM, OFF at all other times?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "oeSeofw3Qqqp7yVGnXk3pA",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ounW4AQNQ6qteAwTQNERRQ",
+  "name" : "zoneTankPumpsOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Pumps for zone tanks 1, 2, 3, and 4 are on and lit up green?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -1015,7 +1075,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are there no wilted towers?",
+  "question" : "Walked through the whole grow room and no wilted towers?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -1075,7 +1135,7 @@
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Are zones 2 and 3 EC/pH within range?",
+  "question" : "Are zones 1, 2 and 3 EC/pH within range?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 } ]

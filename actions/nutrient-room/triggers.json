@@ -1,0 +1,7 @@
+[ {
+  "text" : "run nutrient room checklist",
+  "requiresMention" : true,
+  "isRegex" : false,
+  "caseSensitive" : false,
+  "triggerType" : "MessageSent"
+} ]
