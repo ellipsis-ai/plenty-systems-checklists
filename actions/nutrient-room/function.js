@@ -2,7 +2,7 @@ function(ellipsis) {
   const support = require('support')(ellipsis);
 
 const intro = `
-:orca: Hello, this is the Nutrient Room Checklist reminder. 
+:burrito: Hello, this is the Nutrient Room Checklist reminder. 
 
 Anyone in this channel can respond. Start by clicking below.
 `;

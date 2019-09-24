@@ -69,16 +69,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "3Kcw9vUlRqaMYryol9iwlw",
-  "name" : "depthSensors",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Are Zones 1, 2 and 3 depth sensors free of debris?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "3kCX-Q7nRHOYWR7La2aHpw",
   "name" : "channels",
   "paramType" : {
@@ -99,6 +89,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "4A5WaXjTQaO3WtsUja1NBA",
+  "name" : "noLeaks",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are there no leaks or pooling water?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "57oNfJ0XSG66j3lJ6lyPOQ",
+  "name" : "floor",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the floor clean?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "5SQOOeGrQ3CPzpS4XTOhJw",
   "name" : "trash",
   "paramType" : {
@@ -106,6 +116,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is the trash removed?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "66UtYmhCTJup3_pvnS1elA",
+  "name" : "transportedTowers",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Checked under ALL newly transplanted towers and made sure emitters are aligned in middle of funnel?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -126,6 +146,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "91stEB7nSb2q_DQFQO5Dpw",
+  "name" : "ph",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are zones 1, 2 and 3 EC/pH within range?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -226,6 +256,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are the package pick-up racks cleared and owners alerted?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "E13QiGb0QgurA5Rg5s2oWw",
+  "name" : "towerFunnels",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are tower funnels aligned under emitters?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -559,6 +599,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "U0tZipA-S5iYQlidGPm-JQ",
+  "name" : "noWiltedTowers",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Walked through the whole grow room and no wilted towers?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "US6weit1T-mPDGNFCHmQjg",
   "name" : "channels",
   "paramType" : {
@@ -669,6 +719,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "aQuFwvVrTIi8vGoFEsSc5A",
+  "name" : "userInput1",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `userInput1`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "aaK00MQpQ-KWEK8K-THj6A",
   "name" : "filtersClean",
   "paramType" : {
@@ -716,6 +776,16 @@
     "name" : "Text"
   },
   "question" : "For which channels? (space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "f2OLNrqcRWOKSr-h9Zq0BA",
+  "name" : "lightsOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are lights ON from 7AM to 1PM, OFF at all other times?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -810,6 +880,16 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "i5gMR1mmR7mdhrG9vEY3oQ",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "For which channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "iRDAxWYHRJOgyXfZMhy7ug",
   "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
@@ -939,6 +1019,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "oPDu9tbMRw2teYD--sVt3g",
+  "name" : "roomCurtainClosed",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Room curtain is closed?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "oeSeofw3Qqqp7yVGnXk3pA",
   "name" : "channels",
   "paramType" : {
@@ -966,6 +1056,16 @@
     "name" : "Yes/No"
   },
   "question" : "Are the sump pumps NOT running dry?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "rTtBVYh8RVO2NKZOPWwXcQ",
+  "name" : "auto",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Is the system running in Auto mode, Supply/Return pumps ON in Auto?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -1079,6 +1179,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "x7r1xnSnQNuEtY7DrHL7uQ",
+  "name" : "environment",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Environment (Temp, RH, CO2) within range on HVAC tab?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "xO3Bx6zIRfempoRNlGeNQA",
   "name" : "channels",
   "paramType" : {
@@ -1126,6 +1236,16 @@
     "name" : "Yes/No"
   },
   "question" : "Confirm sock filters are draining properly and not ballooning",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "y8wccbo5TdKO4AjarfZHVA",
+  "name" : "zone1O2Tank",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Zone 1 O2 tank is full?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
