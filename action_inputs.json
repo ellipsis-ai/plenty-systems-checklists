@@ -49,6 +49,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "25js7NFyTKOjyi7fgFwBVQ",
+  "name" : "updates",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Updates from the week?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "3G6_1p00SOGUstlG4tJh8g",
   "name" : "sink",
   "paramType" : {
@@ -99,16 +109,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "57oNfJ0XSG66j3lJ6lyPOQ",
-  "name" : "floor",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Is the floor clean?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "5SQOOeGrQ3CPzpS4XTOhJw",
   "name" : "trash",
   "paramType" : {
@@ -116,16 +116,6 @@
     "name" : "Yes/No"
   },
   "question" : "Is the trash removed?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "66UtYmhCTJup3_pvnS1elA",
-  "name" : "transportedTowers",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Checked under ALL newly transplanted towers and made sure emitters are aligned in middle of funnel?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -339,6 +329,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "KeWzXevOR5-9V883DpGXvw",
+  "name" : "shopvacs",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Shopvacs are empty?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "KkK9lOiMQtCkTb7X2uIEqw",
   "name" : "overheadLightsOff",
   "paramType" : {
@@ -490,12 +490,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "Q8WZV18wTKWlZUDlkeij9Q",
-  "name" : "sockFilters",
+  "name" : "screenFilters",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Confirm sock filters are draining properly and not ballooning",
+  "question" : "Screen filters are clean & free of sediment",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -536,6 +536,16 @@
     "name" : "Yes/No"
   },
   "question" : "Pump for RO tank is on and lit up green?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "SQIeMW3xSoi9NfdK4-NjOQ",
+  "name" : "airlock",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Airlock is full of O2 tanks?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -699,6 +709,26 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "YIVRvytfS6y8k7_ITgXiJg",
+  "name" : "channels",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channels`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "YbSnhyatT6yG5nPGmrw1lg",
+  "name" : "fans",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all fans plugged in and operating?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "YiCzJ46ERBK4u0i7nHuEJg",
   "name" : "tankFull",
   "paramType" : {
@@ -716,16 +746,6 @@
     "name" : "Yes/No"
   },
   "question" : "Make sure middle light rack is in line",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "aQuFwvVrTIi8vGoFEsSc5A",
-  "name" : "userInput1",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `userInput1`?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -756,6 +776,16 @@
     "name" : "Yes/No"
   },
   "question" : "Is the Netsuite upload completed for the day?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "c41QlvXRR0O_qJU39TYdQQ",
+  "name" : "fans",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all fans plugged in and operating?",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -1019,16 +1049,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "oPDu9tbMRw2teYD--sVt3g",
-  "name" : "roomCurtainClosed",
-  "paramType" : {
-    "exportId" : "Yes/No",
-    "name" : "Yes/No"
-  },
-  "question" : "Room curtain is closed?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "oeSeofw3Qqqp7yVGnXk3pA",
   "name" : "channels",
   "paramType" : {
@@ -1139,6 +1159,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "vaTxzvcTQRK3FFCyjtxdEg",
+  "name" : "acidJugs",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Acid jugs and refills are full in MTR, MEG, ORCA, NARW?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "vcr6q4o0RqKnekOZ41W18g",
   "name" : "channels",
   "paramType" : {
@@ -1230,12 +1260,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "xvqsdrd_StuNs9RIfwUK1Q",
-  "name" : "sockFilters",
+  "name" : "screenFilters",
   "paramType" : {
     "exportId" : "Yes/No",
     "name" : "Yes/No"
   },
-  "question" : "Confirm sock filters are draining properly and not ballooning",
+  "question" : "Screen filters are clean & free of sediment",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {

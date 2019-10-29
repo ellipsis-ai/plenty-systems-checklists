@@ -1,0 +1,7 @@
+[ {
+  "text" : "run taurus weekend prep checklist",
+  "requiresMention" : true,
+  "isRegex" : false,
+  "caseSensitive" : false,
+  "triggerType" : "MessageSent"
+} ]
